@@ -45,13 +45,13 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 ```
 
 # Data Exploration - STEP 1 
-# **STEP 1.1** 
+## **STEP 1.1** 
     - Generate plot to see distributions in "Days to Ship" on the whole dataset
 
-# **STEP 1.2**
+## **STEP 1.2**
     - Generate plot to see distribution of "Days to Ship" in Canada
 
-# STEP 1.3: 
+## **STEP 1.3**
     - Generate plot to see distribution of "Days to Ship" in Canada in 2015
 
 # STEP 1.4: 
