@@ -18,7 +18,7 @@ This project processes and analyzes sales data to generate insights and apply ma
 ---
 
 # Setup #
-## Required Libraries ##
+## **Required Libraries** 
 Make sure you have Python installed along with the following libraries:
 - `matplotlib`
 - `pandas`
@@ -26,10 +26,10 @@ Make sure you have Python installed along with the following libraries:
 - `scipy`
 - `scikit-learn`
 
-## Structure ##
+## **Structure** 
 - All of the functions are being run in main.py while their implementations are in clean_data.py and generate_plots.py 
 
-## Files Produced #
+## **Files Produced 
 - At the begining of main.py we are running function cleanAndSortData(dataFrame_raw, output_file_name) that creates SalesRecordClean.csv
 which is a clean dataframe that is used for the data analysis, to learn about cleanAndSortData() look at [ETL / Step 2]
 
