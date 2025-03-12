@@ -9,11 +9,11 @@ This project processes and analyzes sales data to generate insights and apply ma
 - Structure
 - Files Produced
 - Running the Code
-- Data Exploration / Step 1.1 - 1.10  
-- ETL / Step 2
-- Feature Selection / Step 3 
-- Model Training / Step 4
-- Analysis of Results / Step 5
+- Data Exploration  [Step 1.1 - 1.10]  
+- ETL [Step 2]
+- Feature Selection  [Step 3]
+- Model Training  [Step 4]
+- Analysis of Results [Step 5]
 
 ---
 
