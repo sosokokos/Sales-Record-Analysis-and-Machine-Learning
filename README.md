@@ -29,12 +29,12 @@ Make sure you have Python installed along with the following libraries:
 ## **Structure** 
 - All of the functions are being run in main.py while their implementations are in clean_data.py and generate_plots.py 
 
-## **Files Produced 
+## **Files Produced** 
 - At the begining of main.py we are running function cleanAndSortData(dataFrame_raw, output_file_name) that creates SalesRecordClean.csv
 which is a clean dataframe that is used for the data analysis, to learn about cleanAndSortData() look at [ETL / Step 2]
 
 
-## Running the Code ##
+## **Running the Code** 
 Run The code using following command:
 ```
 python3 main.py [INPUT_PATH]
@@ -44,11 +44,11 @@ Which in our case looked like:
 python3 main.py SalesRecords/SalesRecords_5m.csv
 ```
 
-# **Data Exploration - STEP 1** #
-# STEP 1.1: 
+# Data Exploration - STEP 1 
+# **STEP 1.1** 
     - Generate plot to see distributions in "Days to Ship" on the whole dataset
 
-# STEP 1.2: 
+# **STEP 1.2**
     - Generate plot to see distribution of "Days to Ship" in Canada
 
 # STEP 1.3: 
