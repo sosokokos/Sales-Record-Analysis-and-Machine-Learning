@@ -46,31 +46,31 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 ---
 # Data Exploration [STEP 1] 
 ## **STEP 1.1** 
-    - Generate plot to see distributions in "Days to Ship" on the whole dataset
+- Generate plot to see distributions in "Days to Ship" on the whole dataset
 
 ## **STEP 1.2**
-    - Generate plot to see distribution of "Days to Ship" in Canada
+- Generate plot to see distribution of "Days to Ship" in Canada
 
 ## **STEP 1.3**
-    - Generate plot to see distribution of "Days to Ship" in Canada in 2015
+- Generate plot to see distribution of "Days to Ship" in Canada in 2015
 
 ## **STEP 1.4** 
-    - Generate plot to see distribution of "Days to Ship" in Canada in January of 2015
+- Generate plot to see distribution of "Days to Ship" in Canada in January of 2015
 
 ## **STEP 1.5** 
-    - Generate boxplot of categories with low, medium, high, critical priority 
+- Generate boxplot of categories with low, medium, high, critical priority 
 
 ## **STEP 1.6** 
-    - Generating Correlation Heat Map 
+- Generating Correlation Heat Map 
 
 ## **STEP 1.7**
-    - Check DataFrame's count, mean, standard deviation, min, max using .describe() function
+- Check DataFrame's count, mean, standard deviation, min, max using .describe() function
 
 ## **STEP 1.8**
-    - Check the Distributions by graphing individual columns
+- Check the Distributions by graphing individual columns
 
 ## **STEP 1.9**
-    - Check the Variances of individual columns
+- Check the Variances of individual columns
 
 
 # Extraxt-Transform-Load [STEP 2] 
