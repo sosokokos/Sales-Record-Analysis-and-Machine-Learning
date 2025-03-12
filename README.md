@@ -73,7 +73,7 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 - Check the Variances of individual columns
 
 
-# Extraxt-Transform-Load [STEP 2] 
+# ETL [STEP 2] 
 ### **Extract**
 - Reading Data
 
