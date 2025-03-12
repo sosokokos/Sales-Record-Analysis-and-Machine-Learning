@@ -9,7 +9,7 @@ This project processes and analyzes sales data to generate insights and apply ma
 - Structure
 - Files Produced
 - Running the Code
-- Data Exploration  [Step 1.1 - 1.10]  
+- Data Exploration  [Step 1.1 - 1.9]  
 - ETL [Step 2]
 - Feature Selection  [Step 3]
 - Model Training  [Step 4]
@@ -44,7 +44,7 @@ Which in our case looked like:
 python3 main.py SalesRecords/SalesRecords_5m.csv
 ```
 
-# Data Exploration - STEP 1 
+# Data Exploration [STEP 1] 
 ## **STEP 1.1** 
     - Generate plot to see distributions in "Days to Ship" on the whole dataset
 
@@ -54,29 +54,27 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 ## **STEP 1.3**
     - Generate plot to see distribution of "Days to Ship" in Canada in 2015
 
-# STEP 1.4: 
+## **STEP 1.4** 
     - Generate plot to see distribution of "Days to Ship" in Canada in January of 2015
 
-# STEP 1.5: 
+## **STEP 1.5** 
     - Generate boxplot of categories with low, medium, high, critical priority 
 
-# STEP 1.6: 
+## **STEP 1.6** 
     - Generating Correlation Heat Map 
 
-# STEP 1.7: 
+## **STEP 1.7**
     - Check DataFrame's count, mean, standard deviation, min, max using .describe() function
 
-# STEP 1.8: 
+## **STEP 1.8**
     - Check the Distributions by graphing individual columns
 
-# STEP 1.9: 
+## **STEP 1.9**
     - Check the Variances of individual columns
 
-# STEP 1.10: 
-    - Check the Variances of individual columns
 
-# **Extraxt-Transform-Load - STEP 2** #
-# STEP 2: 
+# Extraxt-Transform-Load [STEP 2] 
+## **STEP 2**
     Extract
         - Reading Data
     Transform
@@ -85,27 +83,26 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
         - Once the data is transformed we want to save it to csv/json
 
 
-# **Feature Selection - STEP 3** #
-# STEP 3.1: 
+# Feature Selection [STEP 3] 
+## **STEP 3.1**
     - Selecting appropreate features (columns) for the model training
 
-# STEP 3.2: 
+## **STEP 3.2**
     - Train/Test Split (70,30) respectively
 
-
-# **Model Training - STEP 4** #
-# STEP 4.1: 
+# Model Training [STEP 4]
+## **STEP 4.1** 
     - Model selection
 
-# STEP 4.2: 
+## **STEP 4.2**
     - Model training
 
 
-# **Analysis of Results - STEP 5** #
-# STEP 5.1: 
+# Analysis of Results [STEP 5]
+## **STEP 5.1** 
     - Analysis of results
 
-# STEP 5.2: 
+## **STEP 5.2**
     - Verifying the output of prediction
 
 
