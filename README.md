@@ -43,7 +43,7 @@ Which in our case looked like:
 ```
 python3 main.py SalesRecords/SalesRecords_5m.csv
 ```
-
+---
 # Data Exploration [STEP 1] 
 ## **STEP 1.1** 
     - Generate plot to see distributions in "Days to Ship" on the whole dataset
