@@ -4,7 +4,7 @@ This project processes and analyzes sales data to generate insights and apply ma
 
 ---
 
-# Table of Contents #
+## Table of Contents 
 - Setup
 - Structure
 - Files Produced
