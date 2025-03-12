@@ -75,35 +75,35 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 
 # Extraxt-Transform-Load [STEP 2] 
 ## **STEP 2**
-    Extract
-        - Reading Data
-    Transform
-        - Fix Data types, Reshape Data, Aggregating Data, Filtering out data you don't care abt, joining multiple data, 
-    Load
-        - Once the data is transformed we want to save it to csv/json
+Extract
+- Reading Data
+Transform
+- Fix Data types, Reshape Data, Aggregating Data, Filtering out data you don't care abt, joining multiple data, 
+Load
+- Once the data is transformed we want to save it to csv/json
 
 
 # Feature Selection [STEP 3] 
 ## **STEP 3.1**
-    - Selecting appropreate features (columns) for the model training
+- Selecting appropreate features (columns) for the model training
 
 ## **STEP 3.2**
-    - Train/Test Split (70,30) respectively
+- Train/Test Split (70,30) respectively
 
 # Model Training [STEP 4]
 ## **STEP 4.1** 
-    - Model selection
+- Model selection
 
 ## **STEP 4.2**
-    - Model training
+- Model training
 
 
 # Analysis of Results [STEP 5]
 ## **STEP 5.1** 
-    - Analysis of results
+- Analysis of results
 
 ## **STEP 5.2**
-    - Verifying the output of prediction
+- Verifying the output of prediction
 
 
 
