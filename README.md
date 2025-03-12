@@ -74,11 +74,13 @@ python3 main.py SalesRecords/SalesRecords_5m.csv
 
 
 # Extraxt-Transform-Load [STEP 2] 
-**Extract**
+### **Extract**
 - Reading Data
-**Transform**
+
+### **Transform**
 - Fix Data types, Reshape Data, Aggregating Data, Filtering out data you don't care abt, joining multiple data
-**Load**
+
+### **Load**
 - Once the data is transformed we want to save it to csv/json
 
 # Feature Selection [STEP 3] 
